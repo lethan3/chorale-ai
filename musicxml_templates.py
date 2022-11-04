@@ -1,3 +1,6 @@
+# Copyright (C) 2022 Ethan Reinart Lee. All rights reserved.
+# This code is licensed under the MIT License. Please see the LICENSE file that accompanies this project for the terms of use.
+
 from string import Template
 
 score = Template(
